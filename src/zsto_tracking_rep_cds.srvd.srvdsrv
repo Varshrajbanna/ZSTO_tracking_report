@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Sto Trcaing Report'
+define service ZSTO_TRACKING_REP_CDS {
+  expose ZSTO_Tracking_Rep_CDS;
+}
